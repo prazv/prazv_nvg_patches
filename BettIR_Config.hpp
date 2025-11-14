@@ -27,5 +27,23 @@ class BettIR_Config
 		class UK3CB_PVS5A: __base_NVG
 		{
 		};
+		class JAS_GPNVG18_blk: __base_NVG
+		{
+		};
+		class JAS_GPNVG18_Tan: __base_NVG
+		{
+		};
+		class JAS_GPNVG18_blk_TI: __base_NVG
+		{
+		};
+		class JAS_GPNVG18_Tan_TI: __base_NVG
+		{
+		};
+		class JAS_GPNVG18_Tan_WP: __base_NVG
+		{
+		};
+		class JAS_GPNVG18_blk_WP: __base_NVG
+		{
+		};
 	};
 };
